@@ -8,11 +8,10 @@
 </p>
 <br/>
 
-# Check Out ⏩  [Yield Farming App](https://yieldfarm.netlify.app/)
+# Check Out Dapp ⏩  [Yield Farming App](https://yieldfarm.netlify.app/)
 
 ## Summary 
 A Full Stack DeFi Staking Application For Yield Farming!
-
 
 
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
@@ -23,8 +22,9 @@ A Full Stack DeFi Staking Application For Yield Farming!
 And more!
 
 - [defi-stake-yield-brownie](#defi-stake-yield-brownie)
-- [Check Out ⏩  Yield Farming App](#check-out---yield-farming-app)
+- [Check Out Dapp ⏩  Yield Farming App](#check-out-dapp---yield-farming-app)
   - [Summary](#summary)
+    - [Check Out Contract on Kovan Etherscan ⏩  Contract on Etherscan](#check-out-contract-on-kovan-etherscan---contract-on-etherscan)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Useage](#useage)
@@ -33,6 +33,8 @@ And more!
   - [Testing](#testing)
   - [Linting](#linting)
 - [License](#license)
+
+### Check Out Contract on Kovan Etherscan ⏩  [Contract on Etherscan](https://kovan.etherscan.io/address/0x77e3fffac2068bbff35050c740197f913098c230)
 
 ## Prerequisites
 
