@@ -7,7 +7,7 @@ import { Container } from "@material-ui/core"
 export const App = () => {
   return (
     <DAppProvider config={{
-      supportedChains: [ChainId.Kovan, ChainId.Rinkeby],
+      supportedChains: [ChainId.Kovan],
       notifications: {
         expirationPeriod: 1000,
         checkInterval: 1000
