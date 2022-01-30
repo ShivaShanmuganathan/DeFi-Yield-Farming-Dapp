@@ -8,10 +8,12 @@
 </p>
 <br/>
 
+# Check Out ⏩  [Yield Farming App](https://yieldfarm.netlify.app/)
+
 ## Summary 
 A Full Stack DeFi Staking Application For Yield Farming!
 
-Check Out ⏩  [Yield Farming App](https://yieldfarm.netlify.app/)
+
 
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
 - `unStakeTokens`: Remove your tokens from the contract.
@@ -21,6 +23,7 @@ Check Out ⏩  [Yield Farming App](https://yieldfarm.netlify.app/)
 And more!
 
 - [defi-stake-yield-brownie](#defi-stake-yield-brownie)
+- [Check Out ⏩  Yield Farming App](#check-out---yield-farming-app)
   - [Summary](#summary)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
