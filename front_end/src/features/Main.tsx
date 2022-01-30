@@ -104,7 +104,7 @@ export const Main = () => {
           root: classes.title,
         }}
       >
-        DeFi Dapp Token Farm
+        DeFi Dapp Yield Farm
       </Typography>
       <YourWallet supportedTokens={supportedTokens} />
       <TokenFarmContract supportedTokens={supportedTokens} />
@@ -114,7 +114,7 @@ export const Main = () => {
         onClose={handleCloseNetworkError}
       >
         <Alert onClose={handleCloseNetworkError} severity="warning">
-          You gotta connect to the Kovan or Rinkeby network!
+          You gotta connect to the Kovan network!
         </Alert>
       </Snackbar>
     </>

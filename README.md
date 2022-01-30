@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="./web-image.png" width="500" alt="Full Stack Example">
+<img src="./yield2.jpg" width="500" alt="Full Stack Example">
 </a>
 </p>
 <br/>
@@ -14,7 +14,7 @@ A Full Stack DeFi Staking Application For Yield Farming!
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
 - `unStakeTokens`: Remove your tokens from the contract.
 - `getUserTotalValue`: Get the total value that users have supplied based on calculations from the Chainlink Price Feeds. 
-- `issueTokens`: Issue a reward to the users staking on your platform!
+- `issueTokens`: Issue a reward to the users staking on your platform! [OnlyOwner]
 
 And more!
 
@@ -52,8 +52,8 @@ pip install eth-brownie
 
 2. Clone this repo
 ```
-git clone https://github.com/PatrickAlphaC/defi-stake-yield-brownie
-cd defi-stake-yield-brownie
+git clone https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm
+cd defi-dapp-yield-farm
 ```
 
 1. [Install ganache-cli](https://www.npmjs.com/package/ganache-cli)
