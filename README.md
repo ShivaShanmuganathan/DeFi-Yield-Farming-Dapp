@@ -1,4 +1,4 @@
-# [defi-stake-yield-brownie](https://yieldfarm.netlify.app/)
+# [Yield Farming DeFi Dapp](https://yieldfarm.netlify.app/)
 
 <br/>
 <p align="center">
