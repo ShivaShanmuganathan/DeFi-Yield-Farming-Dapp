@@ -8,7 +8,7 @@
 </p>
 <br/>
 
-# Check Out Dapp ⏩  [Yield Farming App](https://yieldfarm.netlify.app/)
+# Check Out ⏩  [Yield Farming Dapp](https://yieldfarm.netlify.app/)
 
 ## Summary 
 A Full Stack DeFi Staking Application For Yield Farming!
